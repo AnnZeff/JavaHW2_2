@@ -7,7 +7,7 @@ public class Main {
 
 
         if (amount > 1000) {
-            bonus = amount/100;
+            bonus = amount / 100;
         } else {
             bonus = 0;
         }
